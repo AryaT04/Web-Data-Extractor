@@ -1,6 +1,6 @@
 # Web-Data-Extractor
 
-#### A program that parses and extracts dats from a book rating website and only displays the titles of books with 4 or 5-star rating on the console.
+#### A program that parses and extracts data from a book rating website and only displays the titles of books with 4 or 5-star rating on the console.
 ### Technology Used:
 This project is created using Python. 
 
