@@ -2,7 +2,7 @@
 
 #### A program that parses and extracts data from a book rating website and only displays the titles of books with 4 or 5-star rating on the console.
 ### Technology Used:
-This project is created using Python. 
+This project was created using Python. 
 
 To run this project I had to install three python libraries to help me with the parsing and data extraction process:
 - beautifulsoup4 (html parser)
